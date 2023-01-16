@@ -1,0 +1,33 @@
+﻿header{
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#logo{
+    width: 200px;
+    height: 85px;
+    display: inline-block;
+}
+
+ul {
+    float: right;
+    list-style: none;
+}
+
+ul li {
+    display:inline-block;
+    font-size: 24px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+ul li:hover{
+    color: red;
+}
+
+body{
+    min-width: 500px;
+    margin: 0;
+}
